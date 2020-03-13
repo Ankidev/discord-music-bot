@@ -1,16 +1,16 @@
 {
   "bot": {
     "name": "Xayah",
-    "token": "NTY5MjQ2MDQzOTcyMTczODM0.XLt2GA.rFZspWrpMnj3o7VQx3uMTYC8fvc",
+    "token": "NTY5MjQ2MDQzOTcyMTczNTk0NTY0NTYwMjg4MjE5MTM2.XmtRIA.a5lSOUnihhlEBoio1ndNTuLWbcQ",
     "owners": [
-      "discord-id-here"
+      ""
     ],
     "delete_cmd_messages": true,
     "default_cmd_prefix": ".",
     "activity_text": "use .help command"
   },
   "youtube": {
-    "token": "",
+    "token": "484370510088634369",
     "base_url": "https://www.youtube.com"
   }
 }
